@@ -5,7 +5,7 @@
 
 ## All Resource Links
 - Github Repository: [github.com/The-Ahmed-Shahriar/IoT-Project](github.com/The-Ahmed-Shahriar/IoT-Project)
-- UoGuelph Shared Docs: [uoguelphca-my.sharepoint.com](https://uoguelphca-my.sharepoint.com/:f:/g/personal/ashahr01_uoguelph_ca/EhQMqrHUTQFKjK_VrGjcd0IBp4cKtjbfAYb7HMb2N8KnBw)
+- UoGuelph Shared Docs: [uoguelphca-my.sharepoint.com](https://uoguelphca-my.sharepoint.com/:f:/r/personal/ashahr01_uoguelph_ca/Documents/UoGuelph%20IoT%20Project?csf=1&web=1&e=Kde6Pv)
 - EMQX Serverless Broker: [https://www.emqx.com/en/cloud/serverless-mqtt](https://www.emqx.com/en/cloud/serverless-mqtt)
 - Discord: [https://discord.gg/R4C7yacn](https://discord.gg/R4C7yacn)
 
