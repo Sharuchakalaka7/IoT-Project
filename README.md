@@ -4,10 +4,10 @@
 
 
 ## All Resource Links
-- Github Repository: [github.com/The-Ahmed-Shahriar/IoT-Project](github.com/The-Ahmed-Shahriar/IoT-Project)
+- Github Repository: [https://github.com/The-Ahmed-Shahriar/IoT-Project](https://github.com/The-Ahmed-Shahriar/IoT-Project)
 - UoGuelph Shared Docs: [uoguelphca-my.sharepoint.com](https://uoguelphca-my.sharepoint.com/:f:/r/personal/ashahr01_uoguelph_ca/Documents/UoGuelph%20IoT%20Project?csf=1&web=1&e=Kde6Pv)
 - EMQX Serverless Broker: [https://www.emqx.com/en/cloud/serverless-mqtt](https://www.emqx.com/en/cloud/serverless-mqtt)
-- Discord: [https://discord.gg/R4C7yacn](https://discord.gg/R4C7yacn)
+- Discord: [https://discord.gg/mmjgTt3r2J](https://discord.gg/mmjgTt3r2J)
 
 
 
@@ -27,7 +27,7 @@ Currently, this respository is on version **1.0.1**. Change log:
 2. Ensure you have access to a CLI on your device - Linux recommended
 3. Check if you have git installed with the `$ git --version` command, install if needed
 4. Install Golang ([Official](https://go.dev/doc/install)), ([Recommended Tutorial](https://www.jeremymorgan.com/tutorials/raspberry-pi/install-go-raspberry-pi/)); check with `$ go version`
-5. Setup EMQX broker ([EMQX Docs](https://uoguelphca-my.sharepoint.com/:f:/g/personal/ashahr01_uoguelph_ca/EhQMqrHUTQFKjK_VrGjcd0IBp4cKtjbfAYb7HMb2N8KnBw/))
+5. Setup EMQX broker ([EMQX Docs](https://uoguelphca-my.sharepoint.com/:b:/r/personal/ashahr01_uoguelph_ca/Documents/UoGuelph%20IoT%20Project/Onboarding/EMQX%20Broker%20Setup%20and%20Testing.pdf?csf=1&web=1&e=y4eJ1y))
 
 
 
@@ -38,7 +38,7 @@ First, clone this repository:
 $ git clone https://github.com/The-Ahmed-Shahriar/IoT-Project.git
 ```
 
-Once cloned, traverse to the `./EMQX/defs.go` file and insert your broker information to the following constants (see [EMQX Docs](https://uoguelphca-my.sharepoint.com/:f:/g/personal/ashahr01_uoguelph_ca/EhQMqrHUTQFKjK_VrGjcd0IBp4cKtjbfAYb7HMb2N8KnBw/) for where to find these parameters).
+Once cloned, traverse to the `./EMQX/defs.go` file and insert your broker information to the following constants (see [EMQX Docs](https://uoguelphca-my.sharepoint.com/:b:/r/personal/ashahr01_uoguelph_ca/Documents/UoGuelph%20IoT%20Project/Onboarding/EMQX%20Broker%20Setup%20and%20Testing.pdf?csf=1&web=1&e=y4eJ1y) for where to find these parameters).
 ```
  7  const (
  8  	BROKER_HOST = ""
